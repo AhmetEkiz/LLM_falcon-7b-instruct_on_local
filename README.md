@@ -6,7 +6,7 @@ Run LLM model, falcon-7b-instruct on Google Colab, HuggingFace Spaces and Local 
 
 Huge thanks to Nicholas Renotte - Main Code from here: [GitHub - nicknochnack/Falcon40B](https://github.com/nicknochnack/Falcon40B) 
 
-- [My falcon-7b-instruct HuggingFace🤗 Space App](https://huggingface.co/spaces/ahmetekiz/LLM_falcon7b)
+- 🚀 [My falcon-7b-instruct HuggingFace🤗 Space App](https://huggingface.co/spaces/ahmetekiz/LLM_falcon7b)
 - falcon-7b-instruct Notebook - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lrgZdBUTueIJOaEe3hXmUWWvQbGArcY3)
 - falcon-7b-instruct with Memory Module -  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g8n91w-qeLPajLF6mVbszykNduXf1uNf)
 
